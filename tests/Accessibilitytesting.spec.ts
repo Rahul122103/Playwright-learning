@@ -72,7 +72,7 @@ await page.goto("https://demowebshop.tricentis.com/")
 
 })
 
-test.only("Verify accessibility testing-disableRule()", async ({ page }) => {
+test("Verify accessibility testing-disableRule()", async ({ page }) => {
     
     await page.goto("https://demowebshop.tricentis.com/")
 
