@@ -1,0 +1,22 @@
+[
+  {
+    "email": "laura.taylor1234@example.com",
+    "password": "test123",
+    "validity": "valid"
+  },
+  {
+    "email": "inavildtaylor1234@example.com",
+    "password": "test123",
+    "validity": "invalid"
+  },
+  {
+    "email": "valid1234@example.com",
+    "password": "testcb123",
+    "validity": "invalid"
+  },
+  {
+    "email": "",
+    "password": "",
+    "validity": "invalid"
+  }
+]
