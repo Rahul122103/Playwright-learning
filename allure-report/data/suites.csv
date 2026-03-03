@@ -1,5 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","6932","Verify the store opens","chromium","2026-02-06","passed","2026-02-06","","Reportersdemo.spec.ts","",""
-"","4433","verify ss again","chromium","2026-02-07","passed","2026-02-07","","screenshotsagain.spec.ts","",""
-"","4527","check the URL","chromium","2026-02-06","passed","2026-02-06","","Reportersdemo.spec.ts","",""
-"","5797","verify visula testing","chromium","2026-02-07","passed","2026-02-07","","vstesting\visualtesting.spec.ts","",""
