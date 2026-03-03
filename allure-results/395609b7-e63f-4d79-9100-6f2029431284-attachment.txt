@@ -1,0 +1,11 @@
+{
+  bookingid: 4426,
+  booking: {
+    firstname: 'Angela',
+    lastname: 'Stanton',
+    totalprice: 511643519013182,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-09-03', checkout: '2026-09-08' },
+    additionalneeds: 'Breakfast'
+  }
+}

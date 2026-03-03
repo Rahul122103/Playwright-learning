@@ -1,0 +1,11 @@
+{
+  bookingid: 4362,
+  booking: {
+    firstname: 'Michelle',
+    lastname: 'Corkery',
+    totalprice: 4046605294235645,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-09-03', checkout: '2026-09-08' },
+    additionalneeds: 'Breakfast'
+  }
+}

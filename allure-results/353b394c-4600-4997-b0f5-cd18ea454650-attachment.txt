@@ -1,0 +1,11 @@
+{
+  bookingid: 4209,
+  booking: {
+    firstname: 'Willis',
+    lastname: 'Durgan',
+    totalprice: 1510277654575238,
+    depositpaid: false,
+    bookingdates: { checkin: '2026-08-03', checkout: '2026-08-08' },
+    additionalneeds: 'Breakfast'
+  }
+}

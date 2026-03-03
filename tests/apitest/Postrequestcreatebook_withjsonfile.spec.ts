@@ -24,7 +24,7 @@ test('Create Book Post Request', async({request}) => {
 
    // path of json file 
 
-   const  filepath = 'C:/Automation/Playwrightdemo/testdata/Posrequest_Createbooking.json'
+   const  filepath = 'testdata/Posrequest_Createbooking.json'
 
        const filedata = fs.readFileSync(filepath,'utf-8')
 
