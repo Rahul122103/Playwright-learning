@@ -1,0 +1,13 @@
+{
+  bookingid: 3116,
+  booking: {
+    firstname: 'Jim',
+    lastname: 'Brown',
+    totalprice: 111,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'Breakfast'
+  }
+}
+{ token: 'e116a157f888cc8' }
+e116a157f888cc8

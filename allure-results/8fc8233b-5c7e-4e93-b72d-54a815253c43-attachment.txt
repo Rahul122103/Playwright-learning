@@ -1,0 +1,7 @@
+{
+  firstname: 'Susan',
+  lastname: 'Jackson',
+  totalprice: 545,
+  depositpaid: true,
+  bookingdates: { checkin: '2020-05-19', checkout: '2024-08-09' }
+}
