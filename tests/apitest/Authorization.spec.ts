@@ -93,3 +93,27 @@ test('Basic Auth', async ({request}) => {
        expect(response.status()).toBe(200)
     
 });
+
+
+
+test('Apikey Authenication', async ({request}) => {
+
+
+    const apikey = "2822111264d062682d6aea0b010f0671"
+
+
+   const response  =  await   request.get('http://api.openweathermap.org/data/2.5/forecast?id=524901',
+        {params:{
+            appid:apikey
+        }}
+       )
+
+
+       expect(response.ok()).toBeTruthy()
+
+       expect(response.status()).toBe(200)
+// console.log(await response.json()) // this will not  print nested object and array json also it just shows text as object or array
+
+     console.log(JSON.stringify(await response.json(), null, 2)) // this wil print nested object and array json also
+    
+});
