@@ -87,7 +87,7 @@ console.log(createresponsebody)
    const  patchresponse  =  await request.patch(`booking/${bookingid}`, {
 
             headers:{
-                "Cookie": `token = ${token}`,
+                Cookie: `token = ${token}`,
                 
             },
             data:patchtrequestbody
